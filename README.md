@@ -1,5 +1,6 @@
 # Arvee for Home Assistant
 
+## Update to timezonefinder 6.4.1 by MatWho
 ## Installation
 
 To install you can use HACS, or manually copy into `custom_components`
